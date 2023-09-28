@@ -1,0 +1,13 @@
+.second-div {
+    color: red;
+    outline: 1px solid black;
+    margin: 10px;
+    /* margin is around the elemetn */
+    padding: 10px;
+    /* padding is around the content */
+}
+
+.dark-mode {
+    background-color: blue;
+    color: beige;
+}
